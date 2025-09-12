@@ -1,4 +1,4 @@
-# Anime_recommendation
+# Anime recommendation
 
 ## Overview
 
@@ -16,8 +16,7 @@ The system is designed as a portfolio project to demonstrate skills in:
 ## How it works
 
 ### Data Collection
-Dataset sourced from https://www.kaggle.com/code/hasibalmuzdadid/anime-ratings-analysis-recommender-system
-Contains anime metadata such as titles, genres, synopsis, and ratings.
+Dataset sourced from https://www.kaggle.com/code/hasibalmuzdadid/anime-ratings-analysis-recommender-system Contains anime metadata such as titles, genres, synopsis, and ratings.
 
 ### Feature Engineering
 * **Text preprocessing** (tokenization, stopword removal, lemmatization).
